@@ -1,6 +1,4 @@
-# 📊 Pandas Practice
-
-This repository contains my hands-on practice while learning **Pandas** for Data Analysis in Python.
+This repository contains my hands-on practice while learning **Pandas** to strengthen my data cleaning, manipulation, and analysis skills while building a foundation for machine learning.
 
 Instead of just watching tutorials, I solved examples, experimented with datasets, and wrote code for each concept to build a strong foundation.
 
@@ -26,11 +24,7 @@ Instead of just watching tutorials, I solved examples, experimented with dataset
 - Python
 - Pandas
 - NumPy
-- Jupyter Notebook
-
-## 🎯 Purpose
-
-This repository is a part of my AI/ML learning journey. I'm using it to strengthen my data manipulation and analysis skills before moving on to machine learning projects.
+- colab
 
 I'll continue updating this repository as I learn more about Pandas.
 
